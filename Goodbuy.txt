@@ -1,1 +1,2 @@
 Print ("Goodbuy world!")
+print ("Goodbuy")
